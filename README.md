@@ -20,3 +20,5 @@ The project includes:
 -> Model Training and Evaluation using Accuracy, Classification Report, and Confusion Matrix.
 
 -> Comparative Analysis across different models.
+
+Language used is python.
